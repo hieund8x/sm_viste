@@ -1,0 +1,928 @@
+2014-10-22T09:39:10+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser warning : Unsupported version '1.1'  in D:\xampp\htdocs\magento-demo\sm_viste\lib\Varien\Simplexml\Config.php on line 510
+2014-10-22T09:39:10+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.1&quot;?&gt;  in D:\xampp\htdocs\magento-demo\sm_viste\lib\Varien\Simplexml\Config.php on line 510
+2014-10-22T09:39:10+00:00 ERR (3): Warning: simplexml_load_string():                    ^  in D:\xampp\htdocs\magento-demo\sm_viste\lib\Varien\Simplexml\Config.php on line 510
+2014-10-22T09:39:10+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser warning : Unsupported version '1.1'  in D:\xampp\htdocs\magento-demo\sm_viste\lib\Varien\Simplexml\Config.php on line 510
+2014-10-22T09:39:10+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.1&quot;?&gt;  in D:\xampp\htdocs\magento-demo\sm_viste\lib\Varien\Simplexml\Config.php on line 510
+2014-10-22T09:39:10+00:00 ERR (3): Warning: simplexml_load_string():                    ^  in D:\xampp\htdocs\magento-demo\sm_viste\lib\Varien\Simplexml\Config.php on line 510
+2014-10-22T09:39:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser warning : Unsupported version '1.1'  in D:\xampp\htdocs\magento-demo\sm_viste\lib\Varien\Simplexml\Config.php on line 510
+2014-10-22T09:39:11+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.1&quot;?&gt;  in D:\xampp\htdocs\magento-demo\sm_viste\lib\Varien\Simplexml\Config.php on line 510
+2014-10-22T09:39:11+00:00 ERR (3): Warning: simplexml_load_string():                    ^  in D:\xampp\htdocs\magento-demo\sm_viste\lib\Varien\Simplexml\Config.php on line 510
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Opening and ending tag mismatch: reference line 98 and block  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string():             &lt;/block&gt;  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string():                     ^  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 102: parser error : Opening and ending tag mismatch: catalog_product_view line 88 and reference  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/reference&gt;  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string():                     ^  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 103: parser error : Opening and ending tag mismatch: layout line 30 and catalog_product_view  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/catalog_product_view&gt;  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string():                            ^  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 105: parser error : Extra content at the end of the document  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string():     &lt;catalog_category_default&gt;  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser warning : Unsupported version '1.1'  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.1&quot;?&gt;     in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string():                    ^  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser warning : Unsupported version '1.1'  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.1&quot;?&gt;     in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:12+00:00 ERR (3): Warning: simplexml_load_string():                    ^  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-10-22T09:39:13+00:00 ERR (3): Warning: Missing argument 1 for Sm_Responsivelisting_Block_List::setConfig()  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Responsivelisting\Block\List.php on line 31
+2014-10-22T09:39:13+00:00 ERR (3): Notice: Undefined variable: name  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Responsivelisting\Block\List.php on line 33
+2014-10-22T09:39:13+00:00 ERR (3): Notice: Undefined variable: attributes  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 23
+2014-10-22T09:39:13+00:00 ERR (3): Notice: Undefined index: show_notice  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 28
+2014-10-22T09:39:13+00:00 ERR (3): Notice: Undefined index: body_background_image  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 55
+2014-10-22T09:39:13+00:00 ERR (3): Notice: Undefined index: header_background_color  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 61
+2014-10-22T09:39:13+00:00 ERR (3): Notice: Undefined index: header_background_image  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 63
+2014-10-22T09:39:13+00:00 ERR (3): Notice: Undefined variable: homecls  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\navigation\mobinav.phtml on line 42
+2014-10-22T09:39:13+00:00 ERR (3): Notice: Undefined variable: homecls  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\navigation\mobinav.phtml on line 43
+2014-10-22T09:39:15+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-22T09:39:15+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:39:15+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:39:15+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:39:15+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-22T09:39:15+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:39:15+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:39:15+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:39:15+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:39:15+00:00 ERR (3): Strict Notice: Declaration of Sm_BasicProducts_Block_Home::getPriceHtml() should be compatible with Mage_Catalog_Block_Product_Abstract::getPriceHtml($product, $displayMinimalPrice = false, $idSuffix = '')  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\BasicProducts\Block\Home.php on line 11
+2014-10-22T09:39:16+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:17+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:17+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-22T09:39:17+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:39:17+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:39:17+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:39:17+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:17+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-22T09:39:17+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-22T09:39:17+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:17+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:17+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:17+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:17+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:17+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:17+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:17+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:39:18+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\html\breadcrumbs.phtml on line 36
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: collection  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\tag\popular.phtml on line 40
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:18+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:19+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:49+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:50+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] D:\xampp\htdocs\magento-demo\sm_viste\lib\Zend\Controller\Response\Abstract.php:766
+[2] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Controller\Response\Http.php:83
+[3] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\App.php:354
+[5] D:\xampp\htdocs\magento-demo\sm_viste\app\Mage.php:683
+[6] D:\xampp\htdocs\magento-demo\sm_viste\index.php:87
+</pre>
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:54+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:55+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:55+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:55+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:55+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:55+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:55+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:55+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:55+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:39:55+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] D:\xampp\htdocs\magento-demo\sm_viste\lib\Zend\Controller\Response\Abstract.php:766
+[2] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Controller\Response\Http.php:83
+[3] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\App.php:354
+[5] D:\xampp\htdocs\magento-demo\sm_viste\app\Mage.php:683
+[6] D:\xampp\htdocs\magento-demo\sm_viste\index.php:87
+</pre>
+2014-10-22T09:40:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:40:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:40:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:40:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:40:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:40:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:40:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:40:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:40:27+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] D:\xampp\htdocs\magento-demo\sm_viste\lib\Zend\Controller\Response\Abstract.php:766
+[2] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Controller\Response\Http.php:83
+[3] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\App.php:354
+[5] D:\xampp\htdocs\magento-demo\sm_viste\app\Mage.php:683
+[6] D:\xampp\htdocs\magento-demo\sm_viste\index.php:87
+</pre>
+2014-10-22T09:42:19+00:00 ERR (3): Warning: Missing argument 3 for Mage_Review_Block_Helper::getSummaryHtml(), called in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\cartpro\checkout\cart\sidebar\default.phtml on line 116 and defined  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Review\Block\Helper.php on line 41
+2014-10-22T09:42:19+00:00 ERR (3): Notice: Undefined variable: displayIfNoReviews  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Review\Block\Helper.php on line 49
+2014-10-22T09:42:20+00:00 ERR (3): Warning: Missing argument 3 for Mage_Review_Block_Helper::getSummaryHtml(), called in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\cartpro\checkout\cart\mini-cartpro\default.phtml on line 151 and defined  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Review\Block\Helper.php on line 41
+2014-10-22T09:42:20+00:00 ERR (3): Notice: Undefined variable: displayIfNoReviews  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Review\Block\Helper.php on line 49
+2014-10-22T09:42:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: attributes  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 23
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined index: show_notice  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 28
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined index: body_background_image  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 55
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined index: header_background_color  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 61
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined index: header_background_image  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 63
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:06+00:00 ERR (3): Strict Notice: Declaration of Sm_BasicProducts_Block_Home::getPriceHtml() should be compatible with Mage_Catalog_Block_Product_Abstract::getPriceHtml($product, $displayMinimalPrice = false, $idSuffix = '')  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\BasicProducts\Block\Home.php on line 11
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Warning: in_array() expects parameter 2 to be array, null given  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 232
+2014-10-22T09:43:06+00:00 ERR (3): Notice: Undefined variable: collection  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\tag\popular.phtml on line 40
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: attributes  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 23
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined index: show_notice  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 28
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined index: body_background_image  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 55
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined index: header_background_color  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 61
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined index: header_background_image  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 63
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: homecls  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\navigation\mobinav.phtml on line 42
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: homecls  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\navigation\mobinav.phtml on line 43
+2014-10-22T09:43:46+00:00 ERR (3): Warning: Missing argument 3 for Mage_Review_Block_Helper::getSummaryHtml(), called in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\cartpro\checkout\cart\mini-cartpro\default.phtml on line 151 and defined  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Review\Block\Helper.php on line 41
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: displayIfNoReviews  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Review\Block\Helper.php on line 49
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:46+00:00 ERR (3): Strict Notice: Declaration of Sm_BasicProducts_Block_Home::getPriceHtml() should be compatible with Mage_Catalog_Block_Product_Abstract::getPriceHtml($product, $displayMinimalPrice = false, $idSuffix = '')  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\BasicProducts\Block\Home.php on line 245
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:46+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-22T09:43:47+00:00 ERR (3): Notice: Undefined variable: collection  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\tag\popular.phtml on line 40
+2014-10-22T09:43:47+00:00 ERR (3): Notice: Undefined variable: _imgUrl  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\category\view.phtml on line 58
+2014-10-22T09:43:47+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:47+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:47+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-22T09:43:47+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-22T09:43:47+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:47+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:47+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:47+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:47+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-22T09:43:47+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:23+00:00 ERR (3): Warning: Missing argument 1 for Sm_Responsivelisting_Block_List::setConfig()  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Responsivelisting\Block\List.php on line 31
+2014-10-29T06:58:23+00:00 ERR (3): Notice: Undefined variable: name  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Responsivelisting\Block\List.php on line 33
+2014-10-29T06:58:23+00:00 ERR (3): Notice: Undefined variable: attributes  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 23
+2014-10-29T06:58:23+00:00 ERR (3): Notice: Undefined index: show_notice  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 28
+2014-10-29T06:58:23+00:00 ERR (3): Notice: Undefined index: body_background_image  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 55
+2014-10-29T06:58:23+00:00 ERR (3): Notice: Undefined index: header_background_color  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 61
+2014-10-29T06:58:23+00:00 ERR (3): Notice: Undefined index: header_background_image  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 63
+2014-10-29T06:58:23+00:00 ERR (3): Notice: Undefined variable: homecls  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\navigation\mobinav.phtml on line 42
+2014-10-29T06:58:23+00:00 ERR (3): Notice: Undefined variable: homecls  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\navigation\mobinav.phtml on line 43
+2014-10-29T06:58:24+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-29T06:58:24+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T06:58:24+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T06:58:24+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T06:58:24+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-29T06:58:24+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T06:58:24+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T06:58:24+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T06:58:24+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T06:58:24+00:00 ERR (3): Strict Notice: Declaration of Sm_BasicProducts_Block_Home::getPriceHtml() should be compatible with Mage_Catalog_Block_Product_Abstract::getPriceHtml($product, $displayMinimalPrice = false, $idSuffix = '')  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\BasicProducts\Block\Home.php on line 11
+2014-10-29T06:58:25+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:25+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:25+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-29T06:58:25+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T06:58:25+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T06:58:25+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T06:58:26+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\html\breadcrumbs.phtml on line 36
+2014-10-29T06:58:26+00:00 ERR (3): Notice: Undefined variable: collection  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\tag\popular.phtml on line 40
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:27+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:28+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T06:58:29+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:54:46+00:00 ERR (3): Warning: Missing argument 3 for Mage_Review_Block_Helper::getSummaryHtml(), called in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\cartpro\checkout\cart\sidebar\default.phtml on line 116 and defined  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Review\Block\Helper.php on line 41
+2014-10-29T07:54:46+00:00 ERR (3): Notice: Undefined variable: displayIfNoReviews  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Review\Block\Helper.php on line 49
+2014-10-29T07:54:46+00:00 ERR (3): Warning: Missing argument 3 for Mage_Review_Block_Helper::getSummaryHtml(), called in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\cartpro\checkout\cart\mini-cartpro\default.phtml on line 151 and defined  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Review\Block\Helper.php on line 41
+2014-10-29T07:54:46+00:00 ERR (3): Notice: Undefined variable: displayIfNoReviews  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Review\Block\Helper.php on line 49
+2014-10-29T07:54:46+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:20+00:00 ERR (3): Warning: Missing argument 1 for Sm_Responsivelisting_Block_List::setConfig()  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Responsivelisting\Block\List.php on line 31
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: name  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Responsivelisting\Block\List.php on line 33
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: attributes  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 23
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined index: show_notice  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 28
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined index: body_background_image  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 55
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined index: header_background_color  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 61
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined index: header_background_image  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 63
+2014-10-29T07:55:20+00:00 ERR (3): Warning: Missing argument 3 for Mage_Review_Block_Helper::getSummaryHtml(), called in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\cartpro\checkout\cart\mini-cartpro\default.phtml on line 151 and defined  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Review\Block\Helper.php on line 41
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: displayIfNoReviews  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Review\Block\Helper.php on line 49
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:55:20+00:00 ERR (3): Strict Notice: Declaration of Sm_BasicProducts_Block_Home::getPriceHtml() should be compatible with Mage_Catalog_Block_Product_Abstract::getPriceHtml($product, $displayMinimalPrice = false, $idSuffix = '')  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\BasicProducts\Block\Home.php on line 11
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:20+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:55:21+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\html\breadcrumbs.phtml on line 36
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: collection  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\tag\popular.phtml on line 40
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:21+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:22+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:23+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:23+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:25+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:25+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:25+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:25+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:25+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:25+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:25+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:25+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:25+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:55:25+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: attributes  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 23
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined index: show_notice  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 28
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined index: body_background_image  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 55
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined index: header_background_color  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 61
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined index: header_background_image  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 63
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: homecls  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\navigation\mobinav.phtml on line 42
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: homecls  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\navigation\mobinav.phtml on line 43
+2014-10-29T07:57:06+00:00 ERR (3): Warning: Missing argument 3 for Mage_Review_Block_Helper::getSummaryHtml(), called in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\cartpro\checkout\cart\mini-cartpro\default.phtml on line 151 and defined  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Review\Block\Helper.php on line 41
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: displayIfNoReviews  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Review\Block\Helper.php on line 49
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:57:06+00:00 ERR (3): Strict Notice: Declaration of Sm_BasicProducts_Block_Home::getPriceHtml() should be compatible with Mage_Catalog_Block_Product_Abstract::getPriceHtml($product, $displayMinimalPrice = false, $idSuffix = '')  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\BasicProducts\Block\Home.php on line 245
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:57:06+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:57:07+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:57:07+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:57:07+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-10-29T07:57:07+00:00 ERR (3): Notice: Undefined variable: collection  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\tag\popular.phtml on line 40
+2014-10-29T07:57:07+00:00 ERR (3): Notice: Undefined variable: _imgUrl  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\category\view.phtml on line 58
+2014-10-29T07:57:07+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:07+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:07+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-10-29T07:57:07+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-10-29T07:57:07+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:07+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:07+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:07+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:07+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-10-29T07:57:07+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:05+00:00 ERR (3): Warning: Missing argument 1 for Sm_Responsivelisting_Block_List::setConfig()  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Responsivelisting\Block\List.php on line 31
+2014-12-24T07:29:05+00:00 ERR (3): Notice: Undefined variable: name  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Responsivelisting\Block\List.php on line 33
+2014-12-24T07:29:05+00:00 ERR (3): Notice: Undefined variable: attributes  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 23
+2014-12-24T07:29:05+00:00 ERR (3): Notice: Undefined index: show_notice  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 28
+2014-12-24T07:29:05+00:00 ERR (3): Notice: Undefined index: body_background_image  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 55
+2014-12-24T07:29:05+00:00 ERR (3): Notice: Undefined index: header_background_color  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 61
+2014-12-24T07:29:05+00:00 ERR (3): Notice: Undefined index: header_background_image  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\sm\yt_config_inc.php on line 63
+2014-12-24T07:29:06+00:00 ERR (3): Notice: Undefined variable: homecls  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\navigation\mobinav.phtml on line 42
+2014-12-24T07:29:06+00:00 ERR (3): Notice: Undefined variable: homecls  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\navigation\mobinav.phtml on line 43
+2014-12-24T07:29:07+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-12-24T07:29:07+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-12-24T07:29:07+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-12-24T07:29:08+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-12-24T07:29:08+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-12-24T07:29:08+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-12-24T07:29:08+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-12-24T07:29:08+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-12-24T07:29:08+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-12-24T07:29:08+00:00 ERR (3): Strict Notice: Declaration of Sm_BasicProducts_Block_Home::getPriceHtml() should be compatible with Mage_Catalog_Block_Product_Abstract::getPriceHtml($product, $displayMinimalPrice = false, $idSuffix = '')  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\BasicProducts\Block\Home.php on line 11
+2014-12-24T07:29:08+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:09+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:09+00:00 ERR (3): Notice: Undefined variable: firstClassName  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\megamenu\megamenu.phtml on line 66
+2014-12-24T07:29:09+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-12-24T07:29:09+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-12-24T07:29:09+00:00 ERR (3): Notice: Undefined variable: align_right  in D:\xampp\htdocs\magento-demo\sm_viste\app\code\local\Sm\Megamenu\Block\List.php on line 146
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-12-24T07:29:10+00:00 ERR (3): Notice: Undefined variable: isBestProduct  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\sm\slider\slider-mega.phtml on line 73
+2014-12-24T07:29:11+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\page\html\breadcrumbs.phtml on line 36
+2014-12-24T07:29:11+00:00 ERR (3): Notice: Undefined variable: collection  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\tag\popular.phtml on line 40
+2014-12-24T07:29:11+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:11+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:11+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:11+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:11+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:11+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:11+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:11+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:11+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:11+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-12-24T07:29:12+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-12-24T07:29:13+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-12-24T07:29:14+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:14+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:14+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:14+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:14+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:14+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:14+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:14+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:14+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 349
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 356
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:15+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:23+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:24+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:25+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:25+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:25+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:25+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] D:\xampp\htdocs\magento-demo\sm_viste\lib\Zend\Controller\Response\Abstract.php:766
+[2] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Controller\Response\Http.php:83
+[3] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\App.php:354
+[5] D:\xampp\htdocs\magento-demo\sm_viste\app\Mage.php:683
+[6] D:\xampp\htdocs\magento-demo\sm_viste\index.php:87
+</pre>
+2014-12-24T07:29:31+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:31+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:31+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:31+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:31+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:31+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:31+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:31+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 ERR (3): Notice: Undefined variable: uq  in D:\xampp\htdocs\magento-demo\sm_viste\app\design\frontend\default\sm_viste\template\catalog\product\price.phtml on line 199
+2014-12-24T07:29:32+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] D:\xampp\htdocs\magento-demo\sm_viste\lib\Zend\Controller\Response\Abstract.php:766
+[2] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Controller\Response\Http.php:83
+[3] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] D:\xampp\htdocs\magento-demo\sm_viste\app\code\core\Mage\Core\Model\App.php:354
+[5] D:\xampp\htdocs\magento-demo\sm_viste\app\Mage.php:683
+[6] D:\xampp\htdocs\magento-demo\sm_viste\index.php:87
+</pre>
